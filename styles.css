@@ -1,11 +1,9 @@
-/* Reset for consistent box model */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body styling */
 body {
     font-family: 'Helvetica', Arial, sans-serif;
     line-height: 1.5;
